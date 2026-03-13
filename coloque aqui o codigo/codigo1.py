@@ -1,2 +1,3 @@
 print("ola")
-sexo
+yrtyey
+eryrtyryh
